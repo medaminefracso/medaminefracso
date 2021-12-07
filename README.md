@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to my profile (^_^) !
+### Hi there 👋 Welcome to my profile !
 _______________________________________________________________
 I'm Mohamed Amine, a java enthusiast and competitive programmer.
 Here I'll share my future projects. I'm principally interested 
