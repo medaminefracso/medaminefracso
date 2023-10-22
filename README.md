@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my profile !
 _______________________________________________________________
-I'm Mohamed Amine, a java enthusiast and competitive programmer. Currently, I 'm interested to software optimization principally.
+I'm Mohamed Amine, a java enthusiast and competitive programmer. Currently, I'm interested to software optimization principally.
 Here I'll share my future projects. I'm principally interested 
 in software engineering & Web. I'm open to any conversation
 related to the IT world. So, feel free to reach out. 
