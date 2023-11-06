@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my profile !
 _______________________________________________________________
-I'm Mohamed Amine, a java enthusiast and competitive programmer. Here I'll share my future projects. I'm principally interested in software architecture & Web Dev. I'm open to any conversation related to the IT world. So, feel free to reach out. 
+I'm Mohamed Amine, a java enthusiast and competitive programmer. Here I'll share my future projects. I'm principally interested in software architecture & Web Dev. I'm open to any conversation related to the IT industry. So, feel free to reach out. 
 <!--
 **medaminefracso/medaminefracso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
